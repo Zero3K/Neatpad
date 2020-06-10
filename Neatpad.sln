@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Neatpad", "Neatpad\Neatpad.vcxproj", "{AF413D56-D836-4781-A406-2702B3C3CF8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextView", "TextView\TextView.vcxproj", "{E27AA0DA-07D6-4160-B01F-38D393F4321E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UspLib", "UspLib\UspLib.vcxproj", "{29D9DC8A-D76F-4C66-97ED-F3A6492E741E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Unicode Debug|x86 = Unicode Debug|x86
+		Unicode Release|x86 = Unicode Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF413D56-D836-4781-A406-2702B3C3CF8D}.Unicode Debug|x86.ActiveCfg = Unicode Debug|Win32
+		{AF413D56-D836-4781-A406-2702B3C3CF8D}.Unicode Debug|x86.Build.0 = Unicode Debug|Win32
+		{AF413D56-D836-4781-A406-2702B3C3CF8D}.Unicode Release|x86.ActiveCfg = Unicode Release|Win32
+		{AF413D56-D836-4781-A406-2702B3C3CF8D}.Unicode Release|x86.Build.0 = Unicode Release|Win32
+		{E27AA0DA-07D6-4160-B01F-38D393F4321E}.Unicode Debug|x86.ActiveCfg = Unicode Debug|Win32
+		{E27AA0DA-07D6-4160-B01F-38D393F4321E}.Unicode Debug|x86.Build.0 = Unicode Debug|Win32
+		{E27AA0DA-07D6-4160-B01F-38D393F4321E}.Unicode Release|x86.ActiveCfg = Unicode Release|Win32
+		{E27AA0DA-07D6-4160-B01F-38D393F4321E}.Unicode Release|x86.Build.0 = Unicode Release|Win32
+		{29D9DC8A-D76F-4C66-97ED-F3A6492E741E}.Unicode Debug|x86.ActiveCfg = Unicode Debug|Win32
+		{29D9DC8A-D76F-4C66-97ED-F3A6492E741E}.Unicode Debug|x86.Build.0 = Unicode Debug|Win32
+		{29D9DC8A-D76F-4C66-97ED-F3A6492E741E}.Unicode Release|x86.ActiveCfg = Unicode Release|Win32
+		{29D9DC8A-D76F-4C66-97ED-F3A6492E741E}.Unicode Release|x86.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A9190E-EC62-4995-8C4F-D9780B40E344}
+	EndGlobalSection
+EndGlobal
